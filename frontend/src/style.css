@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  background: #f3f4f6;
+  color: #222;
+  font-family: Arial, sans-serif;
+}
+
+main {
+  max-width: 480px;
+  margin: 80px auto;
+  padding: 24px;
+  background: white;
+  border-radius: 12px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 26px;
+}
+
+progress {
+  width: 100%;
+  height: 28px;
+  accent-color: #2563eb;
+}
